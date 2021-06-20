@@ -1,6 +1,7 @@
 # assignment_2
 
-A new Flutter project.
+Task manager app
+![image](https://user-images.githubusercontent.com/84064039/122681322-49d67300-d211-11eb-87b3-47b9b239911d.png)
 
 ## Getting Started
 
